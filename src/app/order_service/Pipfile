@@ -1,0 +1,19 @@
+[[source]]
+url = "https://pypi.python.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+flask = "==2.0.1"
+grpcio ="==1.51.1"
+grpcio-tools ="==1.51.1"
+requests = "==2.27.1"
+redis = "==3.5.3"
+
+[dev-packages]
+
+[pipenv]
+allow_prereleases = true
+
+[requires]
+python_version = "3.8.9"
