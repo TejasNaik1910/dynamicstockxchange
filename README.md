@@ -11,8 +11,6 @@
    `✅` Deploy on AWS <br>
    `✅` Performance Testing <br>
 
-[Design Document] (https://github.com/srujan1997/Trading_App/blob/main/docs/design_document.pdf)
-
 ## Description
 
 Backend for a stock trading platform.The application consists of three microservices: 
@@ -173,7 +171,7 @@ when the leader is killed.
 
 ### Contributors
 [Srujan] (https://github.com/srujan1997/)<br>
-[Tejas] (https://github.com/tejasgnaik/)<br>
+[Tejas] (https://github.com/TejasNaik1910/)<br>
 
 ## References
 
