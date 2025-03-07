@@ -166,8 +166,8 @@ Finally, crash failures can be simulated by killing a random order service repli
 and then bring it back online after some time. Repeat this experiment several times and try to test the case 
 when the leader is killed.
 
-[Performance Testing Results] (https://github.com/TejasNaik1910/Trading_App/blob/main/docs/performance_testing_results.pdf)<br>
-[Sample Outputs] (https://github.com/TejasNaik1910/Trading_App/blob/main/docs/output_snippets.pdf)<br>
+[Performance Testing Results] (https://github.com/TejasNaik1910/dynamicstockxchange/blob/main/docs/performance_testing_results.pdf)<br>
+[Sample Outputs] (https://github.com/TejasNaik1910/dynamicstockxchange/blob/main/docs/output_snippets.pdf)<br>
 
 ### Contributors
 [Srujan] (https://github.com/srujan1997/)<br>
