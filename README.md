@@ -1,4 +1,4 @@
-# Trading Application Backend (Asterix and Double Trouble)
+# Stock Trading Application
 
    `✅` Distributed Application with microservices architecture <br>
    `✅` Highly Consistent <br>
@@ -166,14 +166,9 @@ Finally, crash failures can be simulated by killing a random order service repli
 and then bring it back online after some time. Repeat this experiment several times and try to test the case 
 when the leader is killed.
 
-[Performance Testing Results] (https://github.com/srujan1997/Trading_App/blob/main/docs/performance_testing_results.pdf)<br>
-[Sample Outputs] (https://github.com/srujan1997/Trading_App/blob/main/docs/output_snippets.pdf)<br>
+[Performance Testing Results] (https://github.com/TejasNaik1910/Trading_App/blob/main/docs/performance_testing_results.pdf)<br>
+[Sample Outputs] (https://github.com/TejasNaik1910/Trading_App/blob/main/docs/output_snippets.pdf)<br>
 
 ### Contributors
 [Srujan] (https://github.com/srujan1997/)<br>
 [Tejas] (https://github.com/TejasNaik1910/)<br>
-
-## References
-
-1. Learn about Gaul (the region) https://en.wikipedia.org/wiki/Gaul and the Gauls (the people) https://en.wikipedia.org/wiki/Gauls<br>
-2. Learn about the comics that this project is based on https://en.wikipedia.org/wiki/Asterix
